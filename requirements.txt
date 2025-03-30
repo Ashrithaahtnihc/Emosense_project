@@ -9,3 +9,6 @@ opencv-python
 tensorflow==2.18.0
 jinja2
 deepface
+tf-keras
+gunicorn
+flask
