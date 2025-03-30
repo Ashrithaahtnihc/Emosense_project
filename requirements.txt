@@ -12,3 +12,4 @@ deepface
 tf-keras
 gunicorn
 flask
+python-multipart
