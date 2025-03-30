@@ -6,6 +6,6 @@ matplotlib
 scikit-learn
 joblib
 opencv-python
-tensorflow
+tensorflow==2.18.0
 jinja2
 deepface
