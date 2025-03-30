@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+opencv-python
+tensorflow
+jinja2
+deepface
