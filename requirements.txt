@@ -13,3 +13,4 @@ tf-keras
 gunicorn
 flask
 python-multipart
+tensorflow-cpu
