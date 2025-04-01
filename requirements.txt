@@ -14,3 +14,4 @@ gunicorn
 flask
 python-multipart
 tensorflow-cpu
+speech_recognition
