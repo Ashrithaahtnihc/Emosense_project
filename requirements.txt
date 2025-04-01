@@ -14,4 +14,5 @@ gunicorn
 flask
 python-multipart
 tensorflow-cpu
-speech_recognition
+speech_recognition==3.81
+vosk
